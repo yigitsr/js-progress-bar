@@ -2,4 +2,4 @@
 
 Progress bar made with javascript
 
-Live demo: https://jsprogressbar.netlify.app
+Live preview : https://jsprogressbar.netlify.app
